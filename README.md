@@ -6,7 +6,7 @@ Lipsync with updated electronics (Adafruit ItsyBitsy and RGB LED)
 <img align="center" src="https://raw.githubusercontent.com/makersmakingchange/blog/gh-pages/_resources/images/LipSync_Logo.jpg" width="50%" height="50%" alt="LipSync Logo"/>
 </p>
 
-The LipSync is an assistive technology device developed by <a href="https://www.makersmakingchange.com/" download target="_blank">MakersMakingChange</a> (An initiative by the <a href="https://www.neilsquire.ca/" download target="_blank">Neil Squire Society</a>) which allows quadriplegics and other people with limited hand use the ability to use touchscreen mobile devices by manipulation of a mouth-operated joystick with integrated sip and puff controls. We are releasing all of our work open-source, to make the Lipsync a solution that can be made at the community level for less than $300.
+The LipSync is an assistive technology device developed by <a href="https://www.makersmakingchange.com/" download target="_blank">MakersMakingChange</a> (An initiative by the <a href="https://www.neilsquire.ca/" download target="_blank">Neil Squire Society</a>) which allows quadriplegics and other people with limited hand use the ability to use touchscreen mobile devices by manipulation of a mouth-operated joystick with integrated sip and puff controls. 
 
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/milador/LipSync-Mini/master/Resource/LipSync-Mini.jpg" width="50%" height="50%" alt="LipSync Logo"/>
